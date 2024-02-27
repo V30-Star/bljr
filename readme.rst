@@ -1,5 +1,5 @@
 ###################
-What is CodeIgniters
+What is CodeIgniter
 ###################
 
 CodeIgniter is an Application Development Framework - a toolkit - for people
